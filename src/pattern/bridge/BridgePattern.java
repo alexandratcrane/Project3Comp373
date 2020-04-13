@@ -15,6 +15,7 @@ public class BridgePattern {
     	System.out.println("What size are you?");
 		System.out.println("Input S for small \t M for medium \t L for large");
 		
+		
 		setSize(scan.next().charAt(0));
 }
 
