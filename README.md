@@ -37,4 +37,4 @@ If you have any questions about running any of the tests, please reach out to th
 
 
 ## UML diagram 
-![UML DIAGRAM](./373Project3UML.pdf)
+![UML DIAGRAM](./documents/uml.png)
